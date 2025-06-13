@@ -18113,42 +18113,43 @@ empire_name_format = {
 			has_origin = origin_toxic_knights
 			OR = {
 				OR = {
-				has_government = gov_military_dictatorship
-				has_government = gov_military_junta
-				has_government = gov_irenic_dictatorship
-				has_government = gov_irenic_bureaucracy
-				has_government = gov_totalitarian_regime
-				has_government = gov_executive_committee
-				has_government = gov_constitutional_dictatorship
-				has_government = gov_plutocratic_oligarchy
-				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_timocracy
-				has_government = gov_xenophile_democracy
-				has_government = gov_republican_dictatorship
-				has_government = gov_peoples_republic
-				has_government = gov_liberal_democracy
-				has_government = gov_social_democracy
-				has_government = gov_congress_republic
-				has_government = gov_aristocratic_republic
-				has_government = gov_oligarchic_republic
-				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
-				# Mod - More Authorities
-				has_government = gov_democratic_dictatorship
-				has_government = gov_strict_democracy
+					has_government = gov_military_dictatorship
+					has_government = gov_military_junta
+					has_government = gov_irenic_dictatorship
+					has_government = gov_irenic_bureaucracy
+					has_government = gov_totalitarian_regime
+					has_government = gov_executive_committee
+					has_government = gov_constitutional_dictatorship
+					has_government = gov_plutocratic_oligarchy
+					# Mod - Ethics and Civics Classic 3.2
+					has_government = gov_timocracy
+					has_government = gov_xenophile_democracy
+					has_government = gov_republican_dictatorship
+					has_government = gov_peoples_republic
+					has_government = gov_liberal_democracy
+					has_government = gov_social_democracy
+					has_government = gov_congress_republic
+					has_government = gov_aristocratic_republic
+					has_government = gov_oligarchic_republic
+					has_government = gov_slaver_republic
+					has_government = gov_demos_kratos
+					# Mod - More Authorities
+					has_government = gov_democratic_dictatorship
+					has_government = gov_strict_democracy
+				}
+				NOT = { has_ethic = ethic_egalitarian }
+				NOT = { has_ethic = ethic_fanatic_egalitarian }
+				is_pirate = no
+				is_primitive = no
+				NOT = { is_country_type = fallen_empire }
+				NOT = { is_country_type = awakened_fallen_empire }
 			}
-			NOT = { has_ethic = ethic_egalitarian }
-			NOT = { has_ethic = ethic_fanatic_egalitarian }
-			is_pirate = no
-			is_primitive = no
-			NOT = { is_country_type = fallen_empire }
-			NOT = { is_country_type = awakened_fallen_empire }
 		}
+		format = "{<toxic_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+		noun = "{[This.Capital.GetName]}"
+		prefix_format = "{<toxic_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+		#Stinky State of Earth
 	}
-	format = "{<toxic_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-	noun = "{[This.Capital.GetName]}"
-	prefix_format = "{<toxic_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-	#Stinky State of Earth
 }
 #Stinky State 2
 empire_name_format = {
@@ -18159,42 +18160,43 @@ empire_name_format = {
 			has_origin = origin_toxic_knights
 			OR = {
 				OR = {
-				has_government = gov_military_dictatorship
-				has_government = gov_military_junta
-				has_government = gov_irenic_dictatorship
-				has_government = gov_irenic_bureaucracy
-				has_government = gov_totalitarian_regime
-				has_government = gov_executive_committee
-				has_government = gov_constitutional_dictatorship
-				has_government = gov_plutocratic_oligarchy
-				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_timocracy
-				has_government = gov_xenophile_democracy
-				has_government = gov_republican_dictatorship
-				has_government = gov_peoples_republic
-				has_government = gov_liberal_democracy
-				has_government = gov_social_democracy
-				has_government = gov_congress_republic
-				has_government = gov_aristocratic_republic
-				has_government = gov_oligarchic_republic
-				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
-				# Mod - More Authorities
-				has_government = gov_democratic_dictatorship
-				has_government = gov_strict_democracy
+					has_government = gov_military_dictatorship
+					has_government = gov_military_junta
+					has_government = gov_irenic_dictatorship
+					has_government = gov_irenic_bureaucracy
+					has_government = gov_totalitarian_regime
+					has_government = gov_executive_committee
+					has_government = gov_constitutional_dictatorship
+					has_government = gov_plutocratic_oligarchy
+					# Mod - Ethics and Civics Classic 3.2
+					has_government = gov_timocracy
+					has_government = gov_xenophile_democracy
+					has_government = gov_republican_dictatorship
+					has_government = gov_peoples_republic
+					has_government = gov_liberal_democracy
+					has_government = gov_social_democracy
+					has_government = gov_congress_republic
+					has_government = gov_aristocratic_republic
+					has_government = gov_oligarchic_republic
+					has_government = gov_slaver_republic
+					has_government = gov_demos_kratos
+					# Mod - More Authorities
+					has_government = gov_democratic_dictatorship
+					has_government = gov_strict_democracy
+				}
+				NOT = { has_ethic = ethic_egalitarian }
+				NOT = { has_ethic = ethic_fanatic_egalitarian }
+				is_pirate = no
+				is_primitive = no
+				NOT = { is_country_type = fallen_empire }
+				NOT = { is_country_type = awakened_fallen_empire }
 			}
-			NOT = { has_ethic = ethic_egalitarian }
-			NOT = { has_ethic = ethic_fanatic_egalitarian }
-			is_pirate = no
-			is_primitive = no
-			NOT = { is_country_type = fallen_empire }
-			NOT = { is_country_type = awakened_fallen_empire }
 		}
+		format = "{<toxic_adj> {[This.Capital.GetAdj] {<autocratic_republic_noun>}}}"
+		noun = "{[This.Capital.GetName]}"
+		prefix_format = "{<toxic_adj> {[This.Capital.GetName] {<autocratic_republic_noun>}}}"
+		#Stinky Terran State
 	}
-	format = "{<toxic_adj> {[This.Capital.GetAdj] {<autocratic_republic_noun>}}}"
-	noun = "{[This.Capital.GetName]}"
-	prefix_format = "{<toxic_adj> {[This.Capital.GetName] {<autocratic_republic_noun>}}}"
-	#Stinky Terran State
 }
 #Stinky Xenophobic State
 empire_name_format = {
@@ -18205,46 +18207,47 @@ empire_name_format = {
 			has_origin = origin_toxic_knights
 			OR = {
 				OR = {
-				has_government = gov_military_dictatorship
-				has_government = gov_military_junta
-				has_government = gov_irenic_dictatorship
-				has_government = gov_irenic_bureaucracy
-				has_government = gov_totalitarian_regime
-				has_government = gov_executive_committee
-				has_government = gov_constitutional_dictatorship
-				has_government = gov_plutocratic_oligarchy
-				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_timocracy
-				has_government = gov_xenophile_democracy
-				has_government = gov_republican_dictatorship
-				has_government = gov_peoples_republic
-				has_government = gov_liberal_democracy
-				has_government = gov_social_democracy
-				has_government = gov_congress_republic
-				has_government = gov_aristocratic_republic
-				has_government = gov_oligarchic_republic
-				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
-				# Mod - More Authorities
-				has_government = gov_democratic_dictatorship
-				has_government = gov_strict_democracy
+					has_government = gov_military_dictatorship
+					has_government = gov_military_junta
+					has_government = gov_irenic_dictatorship
+					has_government = gov_irenic_bureaucracy
+					has_government = gov_totalitarian_regime
+					has_government = gov_executive_committee
+					has_government = gov_constitutional_dictatorship
+					has_government = gov_plutocratic_oligarchy
+					# Mod - Ethics and Civics Classic 3.2
+					has_government = gov_timocracy
+					has_government = gov_xenophile_democracy
+					has_government = gov_republican_dictatorship
+					has_government = gov_peoples_republic
+					has_government = gov_liberal_democracy
+					has_government = gov_social_democracy
+					has_government = gov_congress_republic
+					has_government = gov_aristocratic_republic
+					has_government = gov_oligarchic_republic
+					has_government = gov_slaver_republic
+					has_government = gov_demos_kratos
+					# Mod - More Authorities
+					has_government = gov_democratic_dictatorship
+					has_government = gov_strict_democracy
+				}
+				NOT = { has_ethic = ethic_egalitarian }
+				NOT = { has_ethic = ethic_fanatic_egalitarian }
+				OR = {
+					has_ethic = ethic_xenophobe
+					has_ethic = ethic_fanatic_xenophobe
+				}
+				is_pirate = no
+				is_primitive = no
+				NOT = { is_country_type = fallen_empire }
+				NOT = { is_country_type = awakened_fallen_empire }
 			}
-			NOT = { has_ethic = ethic_egalitarian }
-			NOT = { has_ethic = ethic_fanatic_egalitarian }
-			OR = {
-				has_ethic = ethic_xenophobe
-				has_ethic = ethic_fanatic_xenophobe
-			}
-			is_pirate = no
-			is_primitive = no
-			NOT = { is_country_type = fallen_empire }
-			NOT = { is_country_type = awakened_fallen_empire }
 		}
+		format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
+		noun = "{[This.GetSpeciesAdj]}"
+		prefix_format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
+		#Stinky Human State
 	}
-	format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
-	noun = "{[This.GetSpeciesAdj]}"
-	prefix_format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
-	#Stinky Human State
 }
 # Stinky Monarchy 1
 empire_name_format = {
@@ -18910,42 +18913,43 @@ empire_name_format = {
 			has_origin = origin_necrophage
 			OR = {
 				OR = {
-				has_government = gov_military_dictatorship
-				has_government = gov_military_junta
-				has_government = gov_irenic_dictatorship
-				has_government = gov_irenic_bureaucracy
-				has_government = gov_totalitarian_regime
-				has_government = gov_executive_committee
-				has_government = gov_constitutional_dictatorship
-				has_government = gov_plutocratic_oligarchy
-				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_timocracy
-				has_government = gov_xenophile_democracy
-				has_government = gov_republican_dictatorship
-				has_government = gov_peoples_republic
-				has_government = gov_liberal_democracy
-				has_government = gov_social_democracy
-				has_government = gov_congress_republic
-				has_government = gov_aristocratic_republic
-				has_government = gov_oligarchic_republic
-				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
-				# Mod - More Authorities
-				has_government = gov_democratic_dictatorship
-				has_government = gov_strict_democracy
+					has_government = gov_military_dictatorship
+					has_government = gov_military_junta
+					has_government = gov_irenic_dictatorship
+					has_government = gov_irenic_bureaucracy
+					has_government = gov_totalitarian_regime
+					has_government = gov_executive_committee
+					has_government = gov_constitutional_dictatorship
+					has_government = gov_plutocratic_oligarchy
+					# Mod - Ethics and Civics Classic 3.2
+					has_government = gov_timocracy
+					has_government = gov_xenophile_democracy
+					has_government = gov_republican_dictatorship
+					has_government = gov_peoples_republic
+					has_government = gov_liberal_democracy
+					has_government = gov_social_democracy
+					has_government = gov_congress_republic
+					has_government = gov_aristocratic_republic
+					has_government = gov_oligarchic_republic
+					has_government = gov_slaver_republic
+					has_government = gov_demos_kratos
+					# Mod - More Authorities
+					has_government = gov_democratic_dictatorship
+					has_government = gov_strict_democracy
+				}
+				NOT = { has_ethic = ethic_egalitarian }
+				NOT = { has_ethic = ethic_fanatic_egalitarian }
+				is_pirate = no
+				is_primitive = no
+				NOT = { is_country_type = fallen_empire }
+				NOT = { is_country_type = awakened_fallen_empire }
 			}
-			NOT = { has_ethic = ethic_egalitarian }
-			NOT = { has_ethic = ethic_fanatic_egalitarian }
-			is_pirate = no
-			is_primitive = no
-			NOT = { is_country_type = fallen_empire }
-			NOT = { is_country_type = awakened_fallen_empire }
 		}
+		format = "{<necrophage_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+		noun = "{[This.Capital.GetName]}"
+		prefix_format = "{<necrophage_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+		#Hungry State of Earth
 	}
-	format = "{<necrophage_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-	noun = "{[This.Capital.GetName]}"
-	prefix_format = "{<necrophage_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-	#Hungry State of Earth
 }
 #Hungry State 2
 empire_name_format = {
@@ -18956,42 +18960,43 @@ empire_name_format = {
 			has_origin = origin_necrophage
 			OR = {
 				OR = {
-				has_government = gov_military_dictatorship
-				has_government = gov_military_junta
-				has_government = gov_irenic_dictatorship
-				has_government = gov_irenic_bureaucracy
-				has_government = gov_totalitarian_regime
-				has_government = gov_executive_committee
-				has_government = gov_constitutional_dictatorship
-				has_government = gov_plutocratic_oligarchy
-				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_timocracy
-				has_government = gov_xenophile_democracy
-				has_government = gov_republican_dictatorship
-				has_government = gov_peoples_republic
-				has_government = gov_liberal_democracy
-				has_government = gov_social_democracy
-				has_government = gov_congress_republic
-				has_government = gov_aristocratic_republic
-				has_government = gov_oligarchic_republic
-				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
-				# Mod - More Authorities
-				has_government = gov_democratic_dictatorship
-				has_government = gov_strict_democracy
+					has_government = gov_military_dictatorship
+					has_government = gov_military_junta
+					has_government = gov_irenic_dictatorship
+					has_government = gov_irenic_bureaucracy
+					has_government = gov_totalitarian_regime
+					has_government = gov_executive_committee
+					has_government = gov_constitutional_dictatorship
+					has_government = gov_plutocratic_oligarchy
+					# Mod - Ethics and Civics Classic 3.2
+					has_government = gov_timocracy
+					has_government = gov_xenophile_democracy
+					has_government = gov_republican_dictatorship
+					has_government = gov_peoples_republic
+					has_government = gov_liberal_democracy
+					has_government = gov_social_democracy
+					has_government = gov_congress_republic
+					has_government = gov_aristocratic_republic
+					has_government = gov_oligarchic_republic
+					has_government = gov_slaver_republic
+					has_government = gov_demos_kratos
+					# Mod - More Authorities
+					has_government = gov_democratic_dictatorship
+					has_government = gov_strict_democracy
+				}
+				NOT = { has_ethic = ethic_egalitarian }
+				NOT = { has_ethic = ethic_fanatic_egalitarian }
+				is_pirate = no
+				is_primitive = no
+				NOT = { is_country_type = fallen_empire }
+				NOT = { is_country_type = awakened_fallen_empire }
 			}
-			NOT = { has_ethic = ethic_egalitarian }
-			NOT = { has_ethic = ethic_fanatic_egalitarian }
-			is_pirate = no
-			is_primitive = no
-			NOT = { is_country_type = fallen_empire }
-			NOT = { is_country_type = awakened_fallen_empire }
 		}
-	}
 	format = "{<necrophage_adj> {[This.Capital.GetAdj] {<autocratic_republic_noun>}}}"
 	noun = "{[This.Capital.GetName]}"
 	prefix_format = "{<necrophage_adj> {[This.Capital.GetName] {<autocratic_republic_noun>}}}"
 	#Hungry Terran State
+	}
 }
 #Hungry Xenophobic State
 empire_name_format = {
