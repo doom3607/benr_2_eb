@@ -2235,7 +2235,7 @@ empire_name_parts_list = {
 empire_name_parts_list = {
 	key = "galactic_adj"
 	parts = {
-		Galatic = 3
+		Galactic = 3
 		Celestial = 2
 		Universal = 1
 	}
@@ -3038,7 +3038,7 @@ empire_name_parts_list = {
 		Grace = 1
 		Highness = 1
 		Imperial_Majesty = 1
-		Excellecy = 1
+		Excellency = 1
 	}
 }
 empire_name_parts_list = {
@@ -4137,7 +4137,7 @@ empire_name_parts_list = {
 	parts = {
 		Dimensional = 3
 		Astral = 2
-		Etheral = 2
+		Ethereal = 2
 		Warped = 2
 	}
 }
@@ -4326,7 +4326,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4379,7 +4379,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4431,7 +4431,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4484,7 +4484,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4536,7 +4536,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4589,7 +4589,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4634,7 +4634,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4687,7 +4687,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4732,7 +4732,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4785,7 +4785,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4837,7 +4837,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4890,7 +4890,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4942,7 +4942,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -4995,7 +4995,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5047,7 +5047,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5104,7 +5104,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5153,7 +5153,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5206,7 +5206,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5258,7 +5258,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5311,7 +5311,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5363,7 +5363,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5416,7 +5416,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5461,7 +5461,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5514,7 +5514,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5559,7 +5559,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5612,7 +5612,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5664,7 +5664,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5717,7 +5717,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5769,7 +5769,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5822,7 +5822,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5874,7 +5874,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -5931,7 +5931,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7059,7 +7059,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				has_government = gov_anarch_capitalism
 				has_government = gov_minarchy
 			}
@@ -7102,7 +7102,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				has_government = gov_anarch_capitalism
 				has_government = gov_minarchy
 			}
@@ -7144,7 +7144,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				has_government = gov_anarch_capitalism
 				has_government = gov_minarchy
 			}
@@ -7187,7 +7187,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				has_government = gov_anarch_capitalism
 				has_government = gov_minarchy
 			}
@@ -7229,7 +7229,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				has_government = gov_anarch_capitalism
 				has_government = gov_minarchy
 			}
@@ -7649,7 +7649,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7702,7 +7702,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7755,7 +7755,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7807,7 +7807,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7860,7 +7860,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7913,7 +7913,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -7966,7 +7966,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8019,7 +8019,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8071,7 +8071,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8123,7 +8123,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8174,7 +8174,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8225,7 +8225,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8276,7 +8276,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8370,7 +8370,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8380,7 +8380,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets = 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8426,7 +8426,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8436,7 +8436,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8482,7 +8482,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8492,7 +8492,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8538,7 +8538,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8548,7 +8548,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8594,7 +8594,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8604,7 +8604,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8650,7 +8650,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8660,7 +8660,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8706,7 +8706,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8716,7 +8716,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8761,7 +8761,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8771,7 +8771,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8817,7 +8817,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8827,7 +8827,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8873,7 +8873,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8883,7 +8883,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8929,7 +8929,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -8939,7 +8939,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -8985,7 +8985,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -9036,7 +9036,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -9087,7 +9087,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -9138,7 +9138,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -9309,7 +9309,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9319,9 +9319,9 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "{<united_federal_adj> {[This.Capital.System.GetName] {<military_branch>}}}"
+	format = "{<united_federal_adj> {[This.Capital.System.GetName] {<military_branch_noun>}}}"
 	noun = "{[This.Capital.System.GetName]}"
-	prefix_format = "{<united_federal_adj> {[This.Capital.System.GetName] {<military_branch>}}}"
+	prefix_format = "{<united_federal_adj> {[This.Capital.System.GetName] {<military_branch_noun>}}}"
 	# United Sol Space Command
 }
 # Spacefaring Military Federation 2
@@ -9345,7 +9345,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9624,7 +9624,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9655,7 +9655,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9686,7 +9686,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9717,7 +9717,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9939,7 +9939,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -9970,7 +9970,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10001,7 +10001,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10032,7 +10032,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10121,7 +10121,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10168,7 +10168,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10214,7 +10214,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10261,7 +10261,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10307,7 +10307,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10354,7 +10354,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10365,7 +10365,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10401,7 +10401,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10412,7 +10412,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10448,7 +10448,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10459,7 +10459,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10495,7 +10495,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10506,7 +10506,7 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -10542,7 +10542,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10584,7 +10584,7 @@ empire_name_format = {
 				has_government = gov_liberal_democracy
 				has_government = gov_social_democracy
 				has_government = gov_congress_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 			}
 			OR = {
 				has_ethic = ethic_egalitarian
@@ -10993,7 +10993,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11001,7 +11001,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11033,7 +11033,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11041,7 +11041,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11073,7 +11073,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11081,7 +11081,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11113,7 +11113,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11121,7 +11121,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11153,7 +11153,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11164,13 +11164,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11202,7 +11202,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11213,13 +11213,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11251,7 +11251,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11261,13 +11261,13 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11299,7 +11299,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11310,13 +11310,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11348,7 +11348,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11359,13 +11359,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11397,7 +11397,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11407,13 +11407,13 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11445,7 +11445,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11455,13 +11455,13 @@ empire_name_format = {
 				has_origin = origin_scion
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11493,7 +11493,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11504,7 +11504,7 @@ empire_name_format = {
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11536,7 +11536,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11547,7 +11547,7 @@ empire_name_format = {
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11579,7 +11579,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11594,13 +11594,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11632,7 +11632,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -11647,13 +11647,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11680,7 +11680,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11707,7 +11707,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11737,13 +11737,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11773,13 +11773,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11813,13 +11813,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11846,7 +11846,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11873,7 +11873,7 @@ empire_name_format = {
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11903,13 +11903,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11939,13 +11939,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -11979,13 +11979,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -12006,13 +12006,13 @@ empire_name_format = {
 				has_government = gov_elective_monarchy
 				has_government = gov_illuminated_autocracy
 				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_genuine_aristocracy
 			}
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -12033,13 +12033,13 @@ empire_name_format = {
 				has_government = gov_elective_monarchy
 				has_government = gov_illuminated_autocracy
 				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_genuine_aristocracy
 			}
 			NOT = { has_origin = origin_void_dwellers }
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -12060,7 +12060,7 @@ empire_name_format = {
 				has_government = gov_elective_monarchy
 				has_government = gov_illuminated_autocracy
 				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_genuine_aristocracy
 			}
 			OR = {
@@ -12069,13 +12069,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -12096,7 +12096,7 @@ empire_name_format = {
 				has_government = gov_elective_monarchy
 				has_government = gov_illuminated_autocracy
 				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_genuine_aristocracy
 			}
 			OR = {
@@ -12105,13 +12105,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -12132,7 +12132,7 @@ empire_name_format = {
 				has_government = gov_elective_monarchy
 				has_government = gov_illuminated_autocracy
 				# Mod - Ethics and Civics Classic 3.2
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_genuine_aristocracy
 			}
 			OR = {
@@ -12145,13 +12145,13 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -12542,7 +12542,7 @@ empire_name_format = {
 	}
 	format = "{AofB{<religious_order_noun> <the_art> {<awesome_adj> {<oow_dragon_noun>}}}}"
 	noun = "{[This.Capital.GetName]}"
-	format = "{AofB{<religious_order_noun> <the_art> {<awesome_adj> {<oow_dragon_noun>}}}}"
+	prefix_format = "{AofB{<religious_order_noun> <the_art> {<awesome_adj> {<oow_dragon_noun>}}}}"
 	# The Order of the Almighty Dragon
 }
 # Generic Order 1
@@ -12905,8 +12905,8 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 				has_government = gov_grim_council
-				has_valid_civic = "civic_death_cult"
-				has_valid_civic = "civic_reanimators"
+				has_valid_civic = civic_death_cult
+				has_valid_civic = civic_reanimated_armies
 				has_origin = origin_necrophage
 			}
 			is_pirate = no
@@ -12939,8 +12939,8 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 				has_government = gov_grim_council
-				has_valid_civic = "civic_death_cult"
-				has_valid_civic = "civic_reanimators"
+				has_valid_civic = civic_death_cult
+				has_valid_civic = civic_reanimated_armies
 				has_origin = origin_necrophage
 			}
 			is_pirate = no
@@ -12960,7 +12960,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 8
-			NOT = { has_origin origin_here_be_dragons }
+			NOT = { has_origin = origin_here_be_dragons }
 			OR = {
 				has_government = gov_holy_tribunal
 				has_government = gov_subversive_cult
@@ -12974,8 +12974,8 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 				has_government = gov_grim_council
-				has_valid_civic = "civic_death_cult"
-				has_valid_civic = "civic_reanimators"
+				has_valid_civic = civic_death_cult
+				has_valid_civic = civic_reanimated_armies
 				has_origin = origin_necrophage
 			}
 			is_pirate = no
@@ -12995,7 +12995,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 8
-			NOT = { has_origin origin_here_be_dragons }
+			NOT = { has_origin = origin_here_be_dragons }
 			NOT = { has_valid_civic = civic_environmentalist }
 			# Mod - Basic Ordinary Origins
 			NOT = { has_origin = BOO_origin_one_with_nature }
@@ -13012,8 +13012,8 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 				has_government = gov_grim_council
-				has_valid_civic = "civic_death_cult"
-				has_valid_civic = "civic_reanimators"
+				has_valid_civic = civic_death_cult
+				has_valid_civic = civic_reanimated_armies
 				has_origin = origin_necrophage
 			}
 			is_pirate = no
@@ -13033,7 +13033,7 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 8
-			has_origin origin_here_be_dragons
+			has_origin = origin_here_be_dragons
 			OR = {
 				has_government = gov_holy_tribunal
 				has_government = gov_subversive_cult
@@ -13047,8 +13047,8 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 				has_government = gov_grim_council
-				has_valid_civic = "civic_death_cult"
-				has_valid_civic = "civic_reanimators"
+				has_valid_civic = civic_death_cult
+				has_valid_civic = civic_reanimated_armies
 			}
 			is_pirate = no
 			is_primitive = no
@@ -13268,7 +13268,7 @@ empire_name_format = {
 			add = 10
 			is_country_type = enclave_mercenary
 			has_government = gov_mercenary_enclave
-			ethic = ethic_spiritualist
+			has_ethic = ethic_spiritualist
 		}
 	}
 	format = "{<the_art_cap> {<warlike_adj> {<military_order_noun>}}}"
@@ -13334,7 +13334,7 @@ empire_name_format = {
 			add = 10
 			is_country_type = enclave_mercenary
 			has_government = gov_mercenary_enclave
-			ethic = ethic_spiritualist
+			has_ethic = ethic_spiritualist
 		}
 	}
 	format = "{AofB{<military_order_noun> <oow_gen_art_noun>}}"
@@ -13404,7 +13404,7 @@ empire_name_format = {
 			add = 10
 			is_country_type = enclave_mercenary
 			has_government = gov_mercenary_enclave
-			ethic = ethic_spiritualist
+			has_ethic = ethic_spiritualist
 		}
 	}
 	format = "{AofB{<military_order_noun> <the_art> {<warlike_adj> {<oow_gen_noun>}}}}"
@@ -13544,9 +13544,9 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "{AofB{<religious_order_noun> <the_art> {<wealth_adj> {<oow_scary_noun>}}}}"
+	format = "{AofB{<religious_order_noun> <the_art> {<wealthy_adj> {<oow_scary_noun>}}}}"
 	noun = "{[This.Capital.GetName]}"
-	prefix_format = "{AofB{<religious_order_noun> <the_art> {<wealth_adj> {<oow_scary_noun>}}}}"
+	prefix_format = "{AofB{<religious_order_noun> <the_art> {<wealthy_adj> {<oow_scary_noun>}}}}"
 	# The Order of the Golden Shadow
 }
 # Nature Religion 1
@@ -13723,8 +13723,8 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 				has_government = gov_grim_council
-				has_valid_civic = "civic_death_cult"
-				has_valid_civic = "civic_reanimators"
+				has_valid_civic = civic_death_cult
+				has_valid_civic = civic_reanimated_armies
 			}
 			OR = {
 				has_valid_civic = civic_environmentalist
@@ -13998,7 +13998,7 @@ empire_name_format = {
 			has_government = gov_mercenary_enclave
 			NOT = { has_ethic = ethic_materialist }
 			any_country = {
-				same_species = PREV
+				is_species = PREV
 				OR = {
 					has_government = gov_bandit_kingdom
 					has_government = gov_bandit_commune
@@ -14340,7 +14340,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 				# Ethics and Civics: Bug Branch
 				has_government = gov_democratic_megacorporation
 				has_government = gov_imperial_megacorporation
@@ -14357,7 +14357,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 			}
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
@@ -14368,7 +14368,7 @@ empire_name_format = {
 			has_government = gov_mercenary_enclave
 			NOT = {
 				any_country = {
-					same_species = PREV
+					is_species = PREV
 					OR = {
 						has_government = gov_bandit_kingdom
 						has_government = gov_bandit_commune
@@ -14404,7 +14404,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 				# Ethics and Civics: Bug Branch
 				has_government = gov_democratic_megacorporation
 				has_government = gov_imperial_megacorporation
@@ -14421,7 +14421,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 			}
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
@@ -14451,7 +14451,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 				# Ethics and Civics: Bug Branch
 				has_government = gov_democratic_megacorporation
 				has_government = gov_imperial_megacorporation
@@ -14472,7 +14472,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 			}
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
@@ -14499,7 +14499,7 @@ empire_name_format = {
 			OR = {
 				has_government = gov_megacorporation
 				has_government = gov_megachurch
-				has_government = gov_sacrifical_megachurch
+				has_government = gov_sacrificial_megachurch
 				# Mod - Ethics and Civics Classic 3.2
 				has_government = gov_military_corp
 				# Mod - Venture Politics
@@ -14510,7 +14510,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 				# Ethics and Civics: Bug Branch
 				has_government = gov_democratic_megacorporation
 				has_government = gov_imperial_megacorporation
@@ -14531,7 +14531,7 @@ empire_name_format = {
 				# Mod - Government Variety
 				has_government = lrsk_gov_var_gov_private_military_contractor
 				# Mod - Mercenary Megacorps
-				has_government = gov_mercenary_company
+				has_valid_civic = civic_uncivil_mercenary_company
 			}
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
@@ -16004,7 +16004,7 @@ empire_name_format = {
 				has_origin = origin_void_dwellers
 				has_origin = origin_separatists
 				has_origin = origin_remnants
-				num_of_planets > 1
+				num_owned_planets > 1
 				# Mod - Distant Origins
 				has_origin = origin_mzilli_exiles
 			}
@@ -16045,7 +16045,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -16096,7 +16096,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -16147,7 +16147,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -17521,7 +17521,7 @@ empire_name_format = {
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
 	}
-	format = "{[This.GetSpeciesAdj] {<curious_noun>}}"
+	format = "{[This.GetSpeciesAdj] {<curious>}}"
 	noun = "{[This.GetSpeciesAdj]}"
 	# Human Sensoria
 }
@@ -17649,7 +17649,7 @@ empire_name_format = {
 	prefix_format = "their {<galactic_adj> {<style_modular_noun>}}'s"
 	# Galactic Empire
 }
-# Galatic Empire 2
+# Galactic Empire 2
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -17853,7 +17853,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -17898,7 +17898,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -17943,7 +17943,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -17992,7 +17992,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18037,7 +18037,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18082,7 +18082,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18132,7 +18132,7 @@ empire_name_format = {
 					has_government = gov_aristocratic_republic
 					has_government = gov_oligarchic_republic
 					has_government = gov_slaver_republic
-					has_government = gov_demos_kratos
+					has_government = gov_demos_cratos
 					# Mod - More Authorities
 					has_government = gov_democratic_dictatorship
 					has_government = gov_strict_democracy
@@ -18145,11 +18145,11 @@ empire_name_format = {
 				NOT = { is_country_type = awakened_fallen_empire }
 			}
 		}
-		format = "{<toxic_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-		noun = "{[This.Capital.GetName]}"
-		prefix_format = "{<toxic_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-		#Stinky State of Earth
 	}
+	format = "{<toxic_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+	noun = "{[This.Capital.GetName]}"
+	prefix_format = "{<toxic_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+	#Stinky State of Earth
 }
 #Stinky State 2
 empire_name_format = {
@@ -18179,7 +18179,7 @@ empire_name_format = {
 					has_government = gov_aristocratic_republic
 					has_government = gov_oligarchic_republic
 					has_government = gov_slaver_republic
-					has_government = gov_demos_kratos
+					has_government = gov_demos_cratos
 					# Mod - More Authorities
 					has_government = gov_democratic_dictatorship
 					has_government = gov_strict_democracy
@@ -18192,11 +18192,11 @@ empire_name_format = {
 				NOT = { is_country_type = awakened_fallen_empire }
 			}
 		}
-		format = "{<toxic_adj> {[This.Capital.GetAdj] {<autocratic_republic_noun>}}}"
-		noun = "{[This.Capital.GetName]}"
-		prefix_format = "{<toxic_adj> {[This.Capital.GetName] {<autocratic_republic_noun>}}}"
-		#Stinky Terran State
 	}
+	format = "{<toxic_adj> {[This.Capital.GetAdj] {<autocratic_republic_noun>}}}"
+	noun = "{[This.Capital.GetName]}"
+	prefix_format = "{<toxic_adj> {[This.Capital.GetName] {<autocratic_republic_noun>}}}"
+	#Stinky Terran State
 }
 #Stinky Xenophobic State
 empire_name_format = {
@@ -18226,7 +18226,7 @@ empire_name_format = {
 					has_government = gov_aristocratic_republic
 					has_government = gov_oligarchic_republic
 					has_government = gov_slaver_republic
-					has_government = gov_demos_kratos
+					has_government = gov_demos_cratos
 					# Mod - More Authorities
 					has_government = gov_democratic_dictatorship
 					has_government = gov_strict_democracy
@@ -18243,11 +18243,11 @@ empire_name_format = {
 				NOT = { is_country_type = awakened_fallen_empire }
 			}
 		}
-		format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
-		noun = "{[This.GetSpeciesAdj]}"
-		prefix_format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
-		#Stinky Human State
 	}
+	format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
+	noun = "{[This.GetSpeciesAdj]}"
+	prefix_format = "{<toxic_adj> {[This.GetSpeciesAdj] {<autocratic_republic_noun>}}}"
+	#Stinky Human State
 }
 # Stinky Monarchy 1
 empire_name_format = {
@@ -18272,14 +18272,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -18312,14 +18312,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -18352,7 +18352,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -18363,7 +18363,7 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 			}
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -18653,7 +18653,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18698,7 +18698,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18743,7 +18743,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18792,7 +18792,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18837,7 +18837,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18882,7 +18882,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -18932,7 +18932,7 @@ empire_name_format = {
 					has_government = gov_aristocratic_republic
 					has_government = gov_oligarchic_republic
 					has_government = gov_slaver_republic
-					has_government = gov_demos_kratos
+					has_government = gov_demos_cratos
 					# Mod - More Authorities
 					has_government = gov_democratic_dictatorship
 					has_government = gov_strict_democracy
@@ -18945,11 +18945,11 @@ empire_name_format = {
 				NOT = { is_country_type = awakened_fallen_empire }
 			}
 		}
-		format = "{<necrophage_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-		noun = "{[This.Capital.GetName]}"
-		prefix_format = "{<necrophage_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
-		#Hungry State of Earth
 	}
+	format = "{<necrophage_adj> {AofB{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+	noun = "{[This.Capital.GetName]}"
+	prefix_format = "{<necrophage_adj> {AofBpfx{<autocratic_republic_noun> [This.Capital.GetName]}}}"
+	#Hungry State of Earth
 }
 #Hungry State 2
 empire_name_format = {
@@ -18979,7 +18979,7 @@ empire_name_format = {
 					has_government = gov_aristocratic_republic
 					has_government = gov_oligarchic_republic
 					has_government = gov_slaver_republic
-					has_government = gov_demos_kratos
+					has_government = gov_demos_cratos
 					# Mod - More Authorities
 					has_government = gov_democratic_dictatorship
 					has_government = gov_strict_democracy
@@ -18992,11 +18992,11 @@ empire_name_format = {
 				NOT = { is_country_type = awakened_fallen_empire }
 			}
 		}
+	}
 	format = "{<necrophage_adj> {[This.Capital.GetAdj] {<autocratic_republic_noun>}}}"
 	noun = "{[This.Capital.GetName]}"
 	prefix_format = "{<necrophage_adj> {[This.Capital.GetName] {<autocratic_republic_noun>}}}"
 	#Hungry Terran State
-	}
 }
 #Hungry Xenophobic State
 empire_name_format = {
@@ -19025,7 +19025,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -19070,14 +19070,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -19110,14 +19110,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -19150,7 +19150,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -19161,7 +19161,7 @@ empire_name_format = {
 				has_ethic = ethic_xenophobe
 				has_ethic = ethic_fanatic_xenophobe
 			}
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -19525,8 +19525,8 @@ empire_name_format = {
 			has_government = gov_shroudwalker_enclave
 		}
 	}
-	format = "{<the_art >{<witches_noun>}}"
-	noun = "{<the_art >{<witches_noun>}}"
+	format = "{<the_art>{<witches_noun>}}"
+	noun = "{<the_art>{<witches_noun>}}"
 	# The Witches
 }
 # Shroudwalker 4
@@ -20239,7 +20239,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20285,7 +20285,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20331,7 +20331,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20377,7 +20377,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20423,7 +20423,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20469,7 +20469,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20515,7 +20515,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20561,7 +20561,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20607,7 +20607,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20657,7 +20657,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20707,7 +20707,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20753,7 +20753,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20799,7 +20799,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20845,7 +20845,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20891,7 +20891,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20937,7 +20937,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -20983,7 +20983,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -21029,7 +21029,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -21075,7 +21075,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -21125,7 +21125,7 @@ empire_name_format = {
 				has_government = gov_aristocratic_republic
 				has_government = gov_oligarchic_republic
 				has_government = gov_slaver_republic
-				has_government = gov_demos_kratos
+				has_government = gov_demos_cratos
 				# Mod - More Authorities
 				has_government = gov_democratic_dictatorship
 				has_government = gov_strict_democracy
@@ -21171,14 +21171,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21212,14 +21212,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21253,14 +21253,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21294,14 +21294,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21335,14 +21335,14 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21376,7 +21376,7 @@ empire_name_format = {
 				has_government = gov_noble_aristocracy
 				has_government = gov_aristocratic_monarchy
 				has_government = gov_absolute_monarchy
-				has_government = gov_enlightened_socialism
+				has_government = gov_enlighted_socialism
 				has_government = gov_par_monarchy
 				has_government = gov_genuine_aristocracy
 				has_government = gov_great_houses
@@ -21387,7 +21387,7 @@ empire_name_format = {
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21411,7 +21411,7 @@ empire_name_format = {
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21435,7 +21435,7 @@ empire_name_format = {
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
@@ -21459,7 +21459,7 @@ empire_name_format = {
 			}
 			is_pirate = no
 			is_primitive = no
-			NOT = { is_subject_type = vassal }
+			NOT = { is_subject = yes }
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 		}
