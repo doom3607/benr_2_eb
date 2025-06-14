@@ -14158,6 +14158,7 @@ empire_name_format = {
 			add = 2
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -14185,6 +14186,7 @@ empire_name_format = {
 			add = 1
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - More Authorities
 				has_government = gov_megacorporation_fam
 				# Ethics and Civics: Bug Branch
@@ -14210,6 +14212,7 @@ empire_name_format = {
 			add = 1
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - More Authorities
 				has_government = gov_megacorporation_fam
 				# Ethics and Civics: Bug Branch
@@ -14235,6 +14238,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -14268,6 +14272,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - More Authorities
 				has_government = gov_megacorporation_fam
 				# Ethics and Civics: Bug Branch
@@ -14299,6 +14304,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -14342,6 +14348,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -14386,6 +14393,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Ethics and Civics Classic 3.2
 				has_government = gov_military_corp
 				# Mod - Venture Politics
@@ -14452,6 +14460,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Ethics and Civics Classic 3.2
 				has_government = gov_military_corp
 				# Mod - More Authorities
@@ -14497,6 +14506,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Ethics and Civics Classic 3.2
 				has_government = gov_military_corp
 				# Mod - Venture Politics
@@ -14554,6 +14564,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				has_government = gov_megachurch
 				has_government = gov_sacrificial_megachurch
 				# Mod - Ethics and Civics Classic 3.2
@@ -14613,6 +14624,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -14656,6 +14668,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - More Authorities
 				has_government = gov_megacorporation_fam
 				# Ethics and Civics: Bug Branch
@@ -14696,6 +14709,7 @@ empire_name_format = {
 			add = 2
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_optimized_venture
@@ -14779,6 +14793,7 @@ empire_name_format = {
 			add = 2
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_optimized_venture
 				has_government = gov_optimized_monopoly
@@ -14861,6 +14876,7 @@ empire_name_format = {
 			add = 2
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_optimized_venture
@@ -14945,6 +14961,7 @@ empire_name_format = {
 			add = 2
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_optimized_venture
@@ -15024,6 +15041,7 @@ empire_name_format = {
 			add = 8
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -15055,6 +15073,7 @@ empire_name_format = {
 			add = 8
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - More Authorities
 				has_government = gov_megacorporation_fam
 				# Ethics and Civics: Bug Branch
@@ -15084,6 +15103,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_industrial_consortium
@@ -15127,6 +15147,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_industrial_consortium
@@ -15170,6 +15191,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_stellar_bancorp
@@ -15208,6 +15230,7 @@ empire_name_format = {
 			add = 4
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				has_government = gov_stellar_bancorp
@@ -19393,6 +19416,7 @@ empire_name_format = {
 			has_origin = origin_necrophage
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -19422,6 +19446,7 @@ empire_name_format = {
 			has_origin = origin_necrophage
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				# Mod - Venture Politics
 				has_government = gov_megacooperative
 				# Mod - More Authorities
@@ -19925,6 +19950,7 @@ empire_name_format = {
 			has_origin = origin_frontier_world
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				has_government = gov_trade_league
 				has_government = gov_criminal_syndicate
 				# Mod - Venture Politics
@@ -19958,6 +19984,7 @@ empire_name_format = {
 			has_origin = origin_frontier_world
 			OR = {
 				has_government = gov_megacorporation
+				has_government = gov_worker_coop
 				has_government = gov_trade_league
 				has_government = gov_criminal_syndicate
 				# Mod - Venture Politics
